@@ -1,0 +1,22 @@
+.countryWrapper {
+  width: 300px;
+  height: 250px;
+  border: solid 2px rosybrown;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.countryName {
+  font-size: 24px;
+  font-weight: 600px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.flag {
+  width: 230px;
+  margin: auto;
+  margin-top: 20px;
+  height: 170px;
+}
